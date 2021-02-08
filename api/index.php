@@ -35,7 +35,7 @@ class Bot
     // chat_id sign key
     public string $key = "abc";
     //Bot Token
-    public string $token = "1679016407:AAEHII057c26C5_vY8tSLbO8G6mnyXUOYbM";
+    public string $token = "1643327488:AAGUP-IZVr-dCs3RfS9Q5H1RyDrzr4-qRAA";
 
     public function sendMessage($data): array
     {
